@@ -1,1 +1,1 @@
-web: python nhom6web/manage.py runserver 
+web: python nhom6web/manage.py runserver 0.0.0.0:8000
